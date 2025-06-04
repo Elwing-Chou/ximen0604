@@ -1,0 +1,7 @@
+Elwing 周凡剛
+birdfan8814@gmail.com
+
+
+1. 翻譯器: python 3.x
+2. 輔助工具: Pycharm/VSCode
+Anaconda(X)
